@@ -14,7 +14,7 @@ public class DBUtil {
 		String jdbcUrl = "jdbc:oracle:thin:@k-iftshop.cxqwlj3mtyaq.ap-northeast-2.rds.amazonaws.com:1521/ORCL";
 	    String userId = "kift";
 	    //String userPw = "kift";
-	    String userPw = "kift#568974";
+	    String userPw = 변경
 		
 		try {
 			Class.forName("oracle.jdbc.driver.OracleDriver");
